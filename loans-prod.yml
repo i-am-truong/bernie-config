@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to EazyBank loans related prod APIs "
+  message: "Hey, welcome to Bernie Bank loans related prod APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+    name: "Bernie Truong - Product Owner"
+    email: "bernie@gmail.com"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
